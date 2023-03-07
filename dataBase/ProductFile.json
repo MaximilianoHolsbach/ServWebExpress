@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Test",
+    "description": "Insumo para impresoras Ricoh",
+    "price": 10,
+    "thumbnail": "https://c8.alamy.com/compes/2gxf6rm/icono-de-impresora-laser-moderna-en-estilo-de-contorno-aislado-sobre-fondo-blanco-2gxf6rm.jpg",
+    "code": "3c214366-c6ae-43f6-842e-c1554c009805",
+    "stock": 50,
+    "id": 1
+  },
+  {
+    "title": "Toner Ricoh 1170D",
+    "description": "Insumo para modelos 1515,161,171,201",
+    "price": 8,
+    "thumbnail": "https://c8.alamy.com/compes/2gxf6rm/icono-de-impresora-laser-moderna-en-estilo-de-contorno-aislado-sobre-fondo-blanco-2gxf6rm.jpg",
+    "code": "3985a4f0-d394-44a1-bc1b-9fab4f7f4f7f",
+    "stock": 50,
+    "id": 2
+  },
+  {
+    "title": "Toner Brother 2370",
+    "description": "Toner Brother generico",
+    "price": 51,
+    "thumbnail": "https://c8.alamy.com/compes/2gxf6rm/icono-de-impresora-laser-moderna-en-estilo-de-contorno-aislado-sobre-fondo-blanco-2gxf6rm.jpg",
+    "code": "8707a7bb-0f04-47f9-b317-d15b554c3cc2",
+    "stock": 50,
+    "id": 3
+  },
+  {
+    "title": "Cilindro Ricoh 1515",
+    "description": "Unidad de imagen",
+    "price": 150,
+    "thumbnail": "https://c8.alamy.com/compes/2gxf6rm/icono-de-impresora-laser-moderna-en-estilo-de-contorno-aislado-sobre-fondo-blanco-2gxf6rm.jpg",
+    "code": "cd945829-3d66-4c80-953a-c9035d489bf9",
+    "stock": 50,
+    "id": 4
+  },
+  {
+    "title": "Toner Ricoh SP5200",
+    "description": "Toner cartridge",
+    "price": 100,
+    "thumbnail": "https://c8.alamy.com/compes/2gxf6rm/icono-de-impresora-laser-moderna-en-estilo-de-contorno-aislado-sobre-fondo-blanco-2gxf6rm.jpg",
+    "code": "2f39f94e-9e1d-4837-94f5-a5abb6312df1",
+    "stock": 50,
+    "id": 5
+  },
+  {
+    "title": "Toner Ricoh 1130D",
+    "description": "Toner para equipo 1500,1900,2500",
+    "price": 10,
+    "thumbnail": "https://c8.alamy.com/compes/2gxf6rm/icono-de-impresora-laser-moderna-en-estilo-de-contorno-aislado-sobre-fondo-blanco-2gxf6rm.jpg",
+    "code": "685d0411-e5c8-4a43-8201-8344ea5dfc10",
+    "stock": 50,
+    "id": 6
+  }
+]
